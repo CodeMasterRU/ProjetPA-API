@@ -43,9 +43,7 @@ La commande de terminal:
 
 ### Start server et terminal de mongo, l'exécution d'insert de données récupérés
 Les commandes de terminal:
-`start mongod | mongosh`
-
-`py ./insert_mongo.py`
+`start mongod | mongosh | py ./insert_mongo.py`
 
 ## Streamlit 
 La commande de terminal:
