@@ -33,26 +33,26 @@ Le projet contient le scrapping des données du site Carrefour et l'insertion da
 
 ## Installation de bibliothèques
 La commande de terminal:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Scrapping 
 La commande de terminal:
-py ./scrap_carrefour.py
+`py ./scrap_carrefour.py`
 
 ## MongoDB
 
 ### Start server et terminal de mongo, l'exécution d'insert de données récupérés
 Les commandes de terminal:
-start mongod | mongosh
+`start mongod | mongosh`
 
-py ./insert_mongo.py
+`py ./insert_mongo.py`
 
 ## Streamlit 
 La commande de terminal:
-py ./streamlit_mongo.py
+`py ./streamlit_mongo.py`
 
 ## API CRUD
 La commande de terminal:
-py ./apimongo/main.py
+`py ./apimongo/main.py`
 
 
