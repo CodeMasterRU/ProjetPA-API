@@ -2,21 +2,24 @@
 
 ## Architecture du projet
 
-`ProjetPA-API/`
-`├─ apimongo/`
-`│  ├─ server/`
-`│  │  ├─ models/`
-`│  │  │  ├─ article.py`
-`│  │  ├─ routes/`
-`│  │  │  ├─ article.py`
-`│  │  ├─ app.py`
-`│  │  ├─ database.py`
-`│  ├─ main.py`
-`├─ insert_mongo.py`
-`├─ README.md`
-`├─ requirements.txt`
-`├─ scrap_carrefour.py`
-`├─ streamlit_mongo.py`
+```
+ProjetPA-API/
+├─ apimongo/
+│  ├─ server/
+│  │  ├─ models/
+│  │  │  ├─ article.py
+│  │  ├─ routes/
+│  │  │  ├─ article.py
+│  │  ├─ app.py
+│  │  ├─ database.py
+│  ├─ main.py
+├─ insert_mongo.py
+├─ README.md
+├─ requirements.txt
+├─ scrap_carrefour.py
+├─ streamlit_mongo.py
+
+```
 
 ## Pré-requis
 
