@@ -2,6 +2,7 @@
 
 ## Architecture du projet
 
+
 ProjetPA-API/
 ├─ apimongo/
 │  ├─ server/
@@ -17,6 +18,13 @@ ProjetPA-API/
 ├─ requirements.txt
 ├─ scrap_carrefour.py
 ├─ streamlit_mongo.py
+
+
+
+
+
+
+
 
 
 ## Pré-requis
