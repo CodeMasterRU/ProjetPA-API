@@ -46,5 +46,6 @@ La commande de terminal:
 ## API CRUD
 La commande de terminal:
 `py ./apimongo/main.py`
-
+## Adresse serveur:
+`localhost:8000:/docs`
 
